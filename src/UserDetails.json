@@ -1,0 +1,70 @@
+{
+  "userdetails": [
+    {
+      "name": "Rohit",
+      "lastname": "Negi",
+      "userName": "rohitoo1",
+      "email": "rohitsinghnegi68@gmail.com",
+      "password": "U2FsdGVkX1/HmMXS7SKGEi94Lz9edOz9GzpDJte1y/w=",
+      "expenditure": [
+        {
+          "title": "mosue",
+          "amount": "5000"
+        },
+        {
+          "title": "RAM",
+          "amount": "5000"
+        },
+        {
+          "title": "toffee",
+          "amount": "1000"
+        },
+        {
+          "title": "jacket",
+          "amount": "1000"
+        }
+      ],
+      "budget": 12000,
+      "expenses": 12000,
+      "savings": 0,
+      "id": 1
+    },
+    {
+      "name": "jeff",
+      "lastname": "mathew",
+      "userName": "rohitoo1",
+      "email": "jeff@gmail.com",
+      "password": "U2FsdGVkX18jsC1VKfWkbVdMLovhEK4MYwRBy6HFCfI=",
+      "expenditure": [
+        {
+          "title": "RAM",
+          "amount": "1000"
+        },
+        {
+          "title": "ram",
+          "amount": "1000"
+        },
+        {
+          "title": "RAM",
+          "amount": "1000"
+        }
+      ],
+      "budget": 5000,
+      "expenses": 0,
+      "savings": 3000,
+      "id": 2
+    },
+    {
+      "name": "Rohit",
+      "lastname": "singh negi",
+      "username": "108778041829439968853",
+      "email": "rohitsinghnegi68@gmail.com",
+      "expenditure": [],
+      "budget": 0,
+      "expenses": 0,
+      "password": "",
+      "savings": 0,
+      "id": 3
+    }
+  ]
+}
